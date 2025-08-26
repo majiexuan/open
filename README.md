@@ -1,6 +1,6 @@
 # 个人Java开发工具集——Alpha
 
-> 该项目仍处于高活跃更新态，各版本之间差距极大，GA正式版本发布后将稳定
+> ❗该项目已迁移，请前往最新仓库 [https://github.com/mojiexuan/chenille-spring-boot-starter](https://github.com/mojiexuan/chenille-spring-boot-starter)
 
 该项目将自动注入SpringBoot项目中常用工具。
 
